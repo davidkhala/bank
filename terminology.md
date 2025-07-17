@@ -29,6 +29,9 @@ Fund Disbursement means the disbursement of loan funds made by the Lender
 付款人与收款人都在同一家银行开户的交易
 - 反义词：offus payment跨行交易。需要通过结算系统（如RTGS，FPS）
 
+## inward cheque
+入账支票
+
 
 
 # Target Operating Model (TOM)
