@@ -21,7 +21,11 @@
 # Account Posting: 银行过账
 - aka. posting
 
-# Onus Payment 本行交易
+# OnUs Payment 本行交易
+OnUs/offUs Payment in credit card
+- refers to a transaction where the issuing bank (the cardholder’s bank) and the acquiring bank (the merchant’s bank) are the **same**/**different**.
+- OffUs payment transaction must go through interbank networks or payment processors (e.g., Visa, Mastercard), which adds complexity and may introduce delays or additional fees.
+
 付款人与收款人都在同一家银行开户的交易
 - 反义词：offus payment跨行交易。需要通过结算系统（如RTGS，FPS）
 
