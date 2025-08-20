@@ -9,9 +9,10 @@
 ## Customer churn prevention
 - prevent customer attrition (also known as "churn")
 
-Board Rate
+## Board Rate
 - 银行对客户展示的买卖汇/贵金属价格
-- 根据客户Tier(Retail/Wealth management/Corporate)设定不同的点差
+- Setting up tiers (Retail/Wealth management/Corporate) of different trading spreads (点差) for clients
+
 
 
 # Category: Loan
