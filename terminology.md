@@ -39,6 +39,9 @@ it focus on Behavior change, budgeting, debt reduction, financial literacy
 - Compared to "Product Recommendation"
 - Compared to Avatar: Financial influencers
 
+# Risk
+Capital Charge = 银行必须为某类风险预留的最低资本金额
+
 
 # bancassurance
 bancassurance products are insurance offerings sold through banks
