@@ -39,7 +39,7 @@ it focus on Behavior change, budgeting, debt reduction, financial literacy
 - Compared to "Product Recommendation"
 - Compared to Avatar: Financial influencers
 
-# Risk
+# Category Risk
 Capital Charge = 银行必须为某类风险预留的最低资本金额
 
 
