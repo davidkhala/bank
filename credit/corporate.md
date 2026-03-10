@@ -8,9 +8,9 @@ facility = 授信/贷款安排。
 - aka. facility structure, facility letter
 
 
-# Financial Covenants
+# Covenants
 銀行在貸款協議中設定的財務指標要求，用來確保借款人的財務狀況維持在可接受的風險水平。
-
+- aka. Financial Covenants
 ## Leverage / Gearing
 控制負債水平
 - e.g. Debt / Equity ≤ 1.5x
@@ -29,9 +29,20 @@ facility = 授信/贷款安排。
 ## Net Worth Covenant
 維持最低淨值
 
-## Material Adverse Change (MAC)
-不得出現重大不利變化
+# Material Adverse Change (MAC)
+重大不利變化
 - 銀行主觀判斷
 
 # Event of Default (EoD)
 貸款協議中列明的、只要發生就會讓銀行有權採取行動的「重大違約情況」。
+
+类型
+- Non-payment
+- Breach of Covenants
+- Misrepresentation: 提供虛假或不準確資料
+- Cross-default: 在其他銀行違約
+- Insolvency / Bankruptcy
+- Material Adverse Change
+- Illegality: 法律變更導致不能履行
+- Change of Control: 控股權變更
+
